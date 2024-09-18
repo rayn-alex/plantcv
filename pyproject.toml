@@ -10,7 +10,7 @@ name = "plantcv"
 description = "PlantCV: Plant phenotyping with computer vision"
 readme = "README.md"
 license = {file = "LICENSE"}
-version = "4.5.0rayn1"
+version = "4.5.0+rayn"
 dependencies = [
     "matplotlib >= 1.5",
     "numpy >= 1.11, < 2",
